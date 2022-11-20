@@ -1,4 +1,2 @@
-
-world Hello.
 GIT and GitHub for version control.
 
